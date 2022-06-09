@@ -1,0 +1,1 @@
+2022-06-08 06:09:43.657 INFO  (restoreExecutor-2022-thread-1-processing-x_shard1_replica1 o.a.s.c.SolrCore Removing index directory /mnt/data/_shard1_replica1/data/index/ since all named snapshots are deleted.
